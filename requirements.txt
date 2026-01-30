@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain_core
+langchain_groq
+langgraph
+fastapi
+uvicorn
+watchdog
+langchain-cli[mem]
